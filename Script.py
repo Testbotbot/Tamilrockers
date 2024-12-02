@@ -131,7 +131,7 @@ my features Stay here new features coming soon...
 ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
 
-    ADMIN_TXT = "6283322330""ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
+    ADMIN_TXT = "6283322330"ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
 <b>ɴᴏᴛᴇ:</b>
 Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
